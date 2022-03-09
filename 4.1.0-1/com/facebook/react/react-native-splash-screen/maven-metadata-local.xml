@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.facebook.react</groupId>
+  <artifactId>react-native-splash-screen</artifactId>
+  <versioning>
+    <latest>3.2.0-jitsi-9999247</latest>
+    <release>3.2.0-jitsi-9999247</release>
+    <versions>
+      <version>3.2.0-jitsi-9948113</version>
+      <version>3.2.0-jitsi-9948480</version>
+      <version>3.2.0-jitsi-9948518</version>
+      <version>3.2.0-jitsi-9948675</version>
+      <version>3.2.0-jitsi-9948752</version>
+      <version>3.2.0-jitsi-9998631</version>
+      <version>3.2.0-jitsi-9999113</version>
+      <version>3.2.0-jitsi-9999239</version>
+      <version>3.2.0-jitsi-9999247</version>
+    </versions>
+    <lastUpdated>20220303064116</lastUpdated>
+  </versioning>
+</metadata>
